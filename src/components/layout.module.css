@@ -6,6 +6,13 @@
   border: 1px solid #eee;
 }
 
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 0;
+}
+
 .heading {
   color: rebeccapurple;
 }
